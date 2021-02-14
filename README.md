@@ -29,4 +29,4 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### src/network/request.js需修改真实接口信息
-### 项目预览  [点击这里](47.112.172.156).  仅支持手机移动端 
+### 项目预览  [点击这里](http://47.112.172.156/).  仅支持手机移动端 
