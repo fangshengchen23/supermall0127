@@ -3,7 +3,8 @@ import qs from 'qs'
 
 export function request(config) {
   const instance = axios.create({
-    baseURL: 'http://152.136.185.210:7878/api/m5',
+    baseURL: 'xxx',
+    // xxx填写自己的真实接口
     timeout: 5000
   })
 
