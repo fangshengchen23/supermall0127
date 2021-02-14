@@ -28,3 +28,4 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
+### src/network/request.js需修改真实接口信息
